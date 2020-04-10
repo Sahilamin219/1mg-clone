@@ -1,0 +1,40 @@
+nav {
+  background-color: white;
+}
+
+ul li button{
+  color:black !important;
+  font-weight: bold;
+  margin: 0 10px 0 10px;
+}
+
+ul li button:hover{
+  border: 1px solid black;
+}
+
+ul li a{
+  color: black;
+  font-weight: bold;
+}
+
+.nav-wrapper.green li {
+  padding-left: 10px;
+}
+
+.nav-wrapper {
+  display: block;
+}
+
+nav > div {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+
+.navSectionRight{
+  display: flex;
+}
+
+.navSectionLeft{
+ display: inline;
+}
